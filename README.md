@@ -2,7 +2,7 @@
 
 A full-stack web application to track personal finances, categorize spending, visualize expenses, and manage monthly budgets — all in one simple, modern dashboard.
 
-### 🔗 Live Demo: Link 
+### 🔗 Live Demo: [https://personal-finance-complete.vercel.app/](https://personal-finance-complete.vercel.app/)
 
 ---
 
@@ -70,16 +70,19 @@ npm install
 npm run dev
 
 📌 Stage-wise Summary
-Feature	Stage 1	Stage 2	Stage 3
-Add/Edit/Delete Transactions	✅	✅	✅
-Monthly Expense Bar Chart	✅	✅	✅
-Summary Cards	✅	✅	✅
-Category Support	❌	✅	✅
-Pie Chart by Category	❌	✅	✅
-Filter by Category	❌	✅	✅
-Budget Input per Category	❌	❌	✅
-Budget vs Actual Chart	❌	❌	✅
-Overspending Warnings	❌	❌	✅
+| Feature                        | Stage 1 | Stage 2 | Stage 3 |
+|-------------------------------|:-------:|:-------:|:-------:|
+| Add/Edit/Delete Transactions  | ✅      | ✅      | ✅      |
+| Monthly Expense Bar Chart     | ✅      | ✅      | ✅      |
+| Summary Cards                 | ✅      | ✅      | ✅      |
+| Category Support              | ❌      | ✅      | ✅      |
+| Pie Chart by Category         | ❌      | ✅      | ✅      |
+| Filter by Category            | ❌      | ✅      | ✅      |
+| Budget Input per Category     | ❌      | ❌      | ✅      |
+| Budget vs Actual Chart        | ❌      | ❌      | ✅      |
+| Overspending Warnings         | ❌      | ❌      | ✅      |
+
+
 
 📄 License
 This project is open-source and available under the MIT License.
